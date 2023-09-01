@@ -1,0 +1,40 @@
+body
+    {
+        background-color: rgb(228, 5, 5);
+    }
+    div
+    {
+        display: flex;
+        margin: 10% 4% 13% 20%;
+        padding: 1% 1% 1% 1%;
+        width: 60vw;
+        height: 12vh;
+        font-size: 1.5cm;
+        background-color: black;
+        color: aliceblue;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        justify-content: center;
+    }
+    span
+    {
+        color: rgb(255, 0, 0);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    button
+    {
+        padding: 0.5% 1% 0.5% 1%;
+        align-items: center;
+        border-radius: 10px;
+        border: 3px solid black;
+        background-color: rgba(106, 220, 14, 0.469);
+        color: rgb(255, 255, 255);
+
+    }
+    #flipper
+    {
+        margin-left: 15.7cm;
+    }
+    #reset
+    {
+        margin-left: 2cm;
+    }
